@@ -48,7 +48,6 @@ node seu-arquivo.js
 5. Sair
 ==========================
 Escolha sua opção: 2
-
 ==========================
 📋 Lista de Pacientes
 ==========================
